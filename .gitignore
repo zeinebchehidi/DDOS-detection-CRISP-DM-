@@ -1,0 +1,15 @@
+# Environnement et caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Données (trop lourdes, et à télécharger depuis la source)
+CSV-01-12/
+CSV-03-11/
+*.zip
+*.csv
+data/
+
+# Fichiers Word et temporaires
+~$*
+*.docx
